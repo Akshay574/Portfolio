@@ -5440,7 +5440,7 @@
   }
 
   @media only screen and (max-width: 470px) {
-    .text1{
+    .body.light-skin .text1{
         font-size: 5vw !important;
     }
   }
