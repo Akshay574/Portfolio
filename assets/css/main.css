@@ -5440,7 +5440,7 @@
   }
 
   @media only screen and (max-width: 470px) {
-    .text1 .sec-text{
+    .text1{
         font-size: 5vw !important;
     }
   }
