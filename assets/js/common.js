@@ -268,7 +268,7 @@
             const text = document.querySelector(".sec-text");
             const textLoad = () => {
                 setTimeout(() => {
-                    text.textContent = "Web develpment";
+                    text.textContent = "Web Design";
                 }, 0);
                 setTimeout(() => {
                     text.textContent = "Fontend Development";
